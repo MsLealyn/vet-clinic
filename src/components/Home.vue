@@ -3,6 +3,7 @@
 </script>
 
 <template>
+
     <section class="mx-[100px] mt-[78px] flex relative h-140">
         <img src="../assets/images/dog-woman2.jpg" alt="" class="w-[670px] h-[500px] rounded-[15px] absolute z-20">
         <div class="relative w-full h-fit z-10">
@@ -61,9 +62,14 @@
                 <div>
                     <img src="../assets/images/google map.jpg" alt="">
                 </div>
+                <div class="mt-2">
+                    <img src="https://th.bing.com/th/id/OIP.HdWHAFVyJvo0s79H_dINqAHaD4?w=315&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+                        alt="" class="w-[525px] h-[400px] rounded-[15px]">
+
+                </div>
             </div>
             <div class="">
-                <div class="bg-[#FEE8E9] w-[674px] h-[769px] p-[34px] rounded-[15px] grid grid-cols-2 pt-20">
+                <div class="bg-[#FEE8E9] w-[674px] h-[1000px] p-[34px] rounded-[15px] grid grid-cols-2 pt-20">
 
                     <div
                         class="bg-white rounded-3xl mx-4 w-[289px] h-[275px] border border-gray-300 shadow-xl relative">
@@ -119,7 +125,6 @@
                                 log in to easily access and <br>
                                 manage your pets medical <br>
                                 records</p>
-
                         </div>
 
                     </div>
@@ -127,14 +132,6 @@
             </div>
 
         </div>
-       
-
-
-
-
-
-
-
 
 
 
